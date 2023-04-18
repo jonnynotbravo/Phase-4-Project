@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Tooter
 
-Things you may want to cover:
+#About
+Tooter is a cheeky social media app where users can share their spiciest or silliest takes in 25 characters or less, and categorize posts with associated tags.
 
-* Ruby version
+#Users can: 
 
-* System dependencies
+* Create an account and log in/out; update and delete their account
+* View all users' toots; view only an individual user's toots; filter toots by their tags
+* Add likes to posted toots
+* Post new toots and add tags
+* Delete their own toots
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
