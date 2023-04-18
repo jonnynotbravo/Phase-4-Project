@@ -7,14 +7,14 @@ Tooter is a cheeky social media app where users can share their spiciest or sill
 
 <h2>Users can:</h2>
 
-- Create an account and log in/out; update and delete their account
-- View all users' toots; view only an individual user's toots; filter toots by their tags
-- Add likes to posted toots
-- Post new toots and add tags
-- Delete their own toots
+<li> Create an account and log in/out; update and delete their account</li>
+<li> View all users' toots; view only an individual user's toots; filter toots by their tags</li>
+<li> Add likes to posted toots</li>
+<li> Post new toots and add tags</li>
+<li> Delete their own toots</li>
 
 <h2>Technologies: </h2>
-- SQLite relational database
-- Rails API with Active Record and Active Model Serializers
-- User auth with BCrypt
-- React frontend with custom CSS
+<li> SQLite relational database</li>
+<li> Rails API with Active Record and Active Model Serializers</li>
+<li> User auth with BCrypt</li>
+<li> React frontend with custom CSS</li>
