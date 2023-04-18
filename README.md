@@ -14,7 +14,7 @@ Tooter is a cheeky social media app where users can share their spiciest or sill
 - Delete their own toots
 
 <h2>Technologies: </h2>
-* SQLite relational database
-* Rails API with Active Record and Active Model Serializers
-* User auth with BCrypt
-* React frontend with custom CSS
+- SQLite relational database
+- Rails API with Active Record and Active Model Serializers
+- User auth with BCrypt
+- React frontend with custom CSS
